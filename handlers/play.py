@@ -131,7 +131,9 @@ async def play(_, message: Message):
      
                 try:
                     invitelink = await _.export_chat_invite_link(chid)
-                except:
+                    if invitelink.startswith("https://t.me/+"):
+                        invitelink = invitelink.replace("https://t.me/+","https://t.me/joinchat/")
+                 except:
                     await lel.edit(
                         "<b>ᴘʟᴇᴀꜱᴇ ᴀᴛ ꜰɪʀꜱᴛ ᴍᴀᴋᴇ ᴍᴇ \n ᴀɴ ᴀᴅᴍɪɴ...</b>",
                     )
