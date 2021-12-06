@@ -112,7 +112,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("**🔄 ᴘʀᴏᴄᴇꜱꜱɪɴɢ...**")
+    lel = await message.reply("**⚡**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -260,7 +260,7 @@ async def play(_, message: Message):
             return await lel.edit(
                 "**ɢɪᴠᴇ ᴍᴜꜱɪᴄ ɴᴀᴍᴇ ᴛᴏ \n ᴘʟᴀʏ...**"
             )
-        await lel.edit("**🔎 ꜱᴇᴀʀᴄʜɪɴɢ ...**")
+        await lel.edit("**🌟**")
         query = message.text.split(None, 1)[1]
         # print(query)
         await lel.edit("**🌟**")
