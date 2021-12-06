@@ -2,7 +2,7 @@
 
 ### 𝐃𝐚𝐫𝐤 ✘ 𝐁𝐨𝐭 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/104c690a2b8d3c95a7262.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/65be304b45005b8bd84db.jpg" width="300"></a></p>
 
 
 
