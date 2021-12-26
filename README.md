@@ -25,7 +25,7 @@
 
 # ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Sumit9969/GenrateStringSession)
+[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Sumit9969)
 
 
 ### Deploy To Heroku
