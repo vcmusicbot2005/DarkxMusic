@@ -36,19 +36,20 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/30868ddf51d5599e8c777.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧
-𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
+Hᴇʟʟᴏ ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ
+ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍs ɢʀᴏᴜᴘs...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡ : [𝗧𝗵𝗲 𝗦𝘂𝗽𝗲𝗿𝗶𝗼𝘂𝗿 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://t.me/The_Superiour_Network)
-┣★ ⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡ : [𝗪𝗼𝗿𝗹𝗱 𝗙𝗿𝗶𝗲𝗻𝗱𝗦𝗵𝗶𝗽 𝗭𝗼𝗻𝗲](https://t.me/World_FriendShip_Zone)
-┣★ ⚡𝗢𝘄𝗻𝗲𝗿⚡   : [𝗦𝘂𝗺𝗶𝘁 𝗬𝗮𝗱𝗮𝘃](https://t.me/Simple_Mundaa)
+┣★ Uᴘᴅᴀᴛᴇs : [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/The_Superiour_Network)
+┣★ Sᴜᴘᴘᴏʀᴛ : [Wᴏʀʟᴅ FʀɪᴇɴᴅSʜɪᴘ Zᴏɴᴇ](https://t.me/World_FriendShip_Zone)
+┣★ Oᴡɴᴇʀ   : [Sᴜᴍɪᴛ Yᴀᴅᴀᴠ](https://t.me/Simple_Mundaa)
+┣★ Fᴇᴍᴀʟᴇ Oᴡɴᴇʀ : [Nɪᴋɪᴛᴀ](https://t.me/Cute_Shezhadi012)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ ❰ 𝗔𝗱𝗱 𝗠𝗲 𝗜𝗻 𝗚𝗿𝗼𝘂𝗽 ❱ ⚡", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ]
                 
            ]
@@ -65,7 +66,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/World_FriendShip_Zone")
+                        "Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/World_FriendShip_Zone")
                 ]
             ]
         ),
@@ -81,7 +82,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡", url=f"https://t.me/The_Superiour_Network")
+                        "Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators")
                 ]
             ]
         ),
