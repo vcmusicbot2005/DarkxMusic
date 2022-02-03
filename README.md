@@ -1,6 +1,6 @@
-<h2 align="centre">⚡𝐃𝐚𝐫𝐤 ✘ 𝐌𝐮𝐬𝐢𝐜⚡</h2>
+<h2 align="centre">⚡🇩ᴀʀᴋ ✘ 🇲ᴜsɪᴄ </h2>
 
-### 𝐃𝐚𝐫𝐤 ✘ 𝐌𝐮𝐬𝐢𝐜 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### ᴅᴀʀᴋ ✘ ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/30868ddf51d5599e8c777.jpg" width="300"></a></p>
 
