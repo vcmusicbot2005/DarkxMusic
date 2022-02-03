@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
 Hᴇʟʟᴏ ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍs ɢʀᴏᴜᴘs...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ Uᴘᴅᴀᴛᴇs : [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/The_Superiour_Network)
+┣★ Uᴘᴅᴀᴛᴇs : [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/Demon_Creators)
 ┣★ Sᴜᴘᴘᴏʀᴛ : [Wᴏʀʟᴅ FʀɪᴇɴᴅSʜɪᴘ Zᴏɴᴇ](https://t.me/World_FriendShip_Zone)
 ┣★ Oᴡɴᴇʀ   : [Sᴜᴍɪᴛ Yᴀᴅᴀᴠ](https://t.me/Simple_Mundaa)
 ┣★ Fᴇᴍᴀʟᴇ Oᴡɴᴇʀ : [Nɪᴋɪᴛᴀ](https://t.me/Cute_Shezhadi012)
