@@ -185,7 +185,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
+                            text="Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://t.me/World_FriendShip_Zone")
 
                 ]
@@ -224,7 +224,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
+                            text="Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://t.me/World_FriendShip_Zone")
 
                 ]
@@ -240,7 +240,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
+                            text="Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://t.me/World_FriendShip_Zone")
 
                 ]
@@ -295,7 +295,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
+                            text="Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://t.me/World_FriendShip_Zone")
 
                 ]
